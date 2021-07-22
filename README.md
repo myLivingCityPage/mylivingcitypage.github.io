@@ -1,3 +1,3 @@
-## MyLivingCity Capstone Project Page 2021
+# MyLivingCity Capstone Project Page 2021
 
-# From ICS Team F
+## From ICS Team F
